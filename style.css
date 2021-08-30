@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    color:blue;
+}
+img {
+    transition: transform .2s;
+    width: 500px;
+}
+img.hover {
+    transform: scale(0.9);
+}
+h1{
+    font: 'Oswald', sans-serif;
+    color: blue;
+}
+#Apps{
+    width:100%;
+    height:800px;
+}
+#games{
+    width:100%;
+    height:800px;
+}
+#chatbot{
+    width:100%;
+    height:800px;
+}
+.line {
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
